@@ -1,0 +1,5 @@
+# lean-sso
+# Exenciones SSO adicionales de Lean Contexts. Una entrada por linea:
+#   host exacto  -> login.ejemplo.com
+#   sufijo       -> .ejemplo.com  (minimo un dominio registrable)
+# El baseline compilado ya cubre los proveedores grandes; aqui solo se ANADE.
